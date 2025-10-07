@@ -9,6 +9,7 @@ User picks a country & lifestyle scenario → we show **model-only** prediction 
   - `site/data/preds_2019.json` – predictions
   - `site/data/countries.json` – ISO3 → country name
 
+
 The static site (`site/index.html`) loads those JSONs and renders the UI.
 
 ## Build / Run
